@@ -66,3 +66,4 @@ The project now uses the same simple style as the AP Pigeon project:
 - All classes use the same `com.template` package
 - Main class is `com.template.Main`
 
+All needed code is now together in the `com.template` package.
