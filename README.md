@@ -1,8 +1,8 @@
 # Pigeon Mail
 
-Pigeon Mail is a simple JavaFX email system built for the AP project. It allows users to create an account, log in, send emails, view received emails, view sent emails, and search emails using keywords.
+Pigeon Mail is a simple email system . It allows users to create an account, log in, send emails, view received emails, view sent emails, and search emails using keywords.
 
-The project is kept in a beginner-friendly structure. All Java classes are in one package, `com.template`, so it is easier to understand and run.
+
 
 ## What Is Included
 
@@ -125,18 +125,12 @@ Important columns:
 
 ## Run
 
-With Maven installed:
+With Maven:
 
 ```bash
 mvn javafx:run
 ```
 
-In IntelliJ IDEA:
-
-1. Open this folder as a Maven project.
-2. Wait for Maven import to finish.
-3. Select the run configuration named `Pigeon Mail JavaFX`.
-4. Click Run.
 
 Main class:
 
