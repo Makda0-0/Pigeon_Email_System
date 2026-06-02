@@ -168,4 +168,4 @@ The project now uses the same simple style as the AP Pigeon project:
 - The app must connect to MySQL before login or registration can work.
 - The receiver email must already be registered before an email can be sent to it.
 - The logo file is stored at `src/resourses/images/pigeon-mail-logo-transparent.png`.
-- The project is intentionally simple and does not use separate controller, model, and view folders.
+
